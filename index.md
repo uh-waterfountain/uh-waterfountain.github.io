@@ -11,6 +11,7 @@
 
 ## Overview
 
+
 ## User Guide
 
 ### Landing Page
@@ -25,7 +26,9 @@
 
 ### Filter page
 
+
 ## Community Feedback
+
 
 ## Developer Guide
 
@@ -35,7 +38,9 @@
 
 ### Data model
 
+
 ## Initialization
+
 
 ## Quality Assurance
 
@@ -43,16 +48,20 @@
 
 ### From mockup to production
 
+
 ## Development History
 
 ### Milestone 1: Mockup development
 
 ### Milestone 2: Data model development
 
-## Milestone 3: Final touches
+### Milestone 3: Final touches
+
 
 ## Walkthrough videos
 
+
 ## Example enhancements
+
 
 ## Contact Us
