@@ -62,10 +62,6 @@ There should also be a sorting system, with top rated water fountains being able
 
 ### Milestone 1: Mockup development
 
-### Milestone 2: Data model development
-
-### Milestone 3: Final touches
-
 
 ## Walkthrough videos
 
