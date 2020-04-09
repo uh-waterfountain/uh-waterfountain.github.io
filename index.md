@@ -25,6 +25,8 @@ There should also be a sorting system, with top rated water fountains being able
 
 ### Landing Page
 
+<img src="doc/landing-page.png" alt="landing-page">
+
 ### Index pages (Projects, Profiles, Interests)
 
 ### Sign in and sign up
