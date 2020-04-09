@@ -32,13 +32,16 @@ There should also be a sorting system, with top rated water fountains being able
 ### Sign in and sign up
 
 ### Home page
+Once you have signed in, you should be able to view the  home page. It is like the landing page, but you are logged into your account.
 
-### Add Project page
+### Add Fountain page
+On the NavBar, there is  an "Add Fountains" link that will direct you to a form where you are able to add a fountain that is on campus. You are able to rate and judge the quality of the fountain.
 
-### Filter page
-
+### List Fountain page
+On the NavBar, there is a "List Fountains" link that directs you to the list of fountains you have rated.
 
 ## Community Feedback
+You are able to view the community's rating of each water fountain on campus.
 
 
 ## Developer Guide
