@@ -43,23 +43,10 @@ You are able to view the community's rating of each water fountain on campus.
 
 
 ## Developer Guide
+This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
+1. Install [Meteor.](https://www.meteor.com/install)
 
 ### Installation 
-
-### Application Design
-
-### Data model
-
-
-## Initialization
-
-
-## Quality Assurance
-
-### ESLint
-
-### From mockup to production
-
 
 ## Development History
 
