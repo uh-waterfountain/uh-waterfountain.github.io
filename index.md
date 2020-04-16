@@ -5,8 +5,6 @@
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
 * [Development History](#development-history)
-* [Walkthrough videos](#walkthrough-videos)
-* [Example enhancements](#example-enhancements)
 * [Contact Us](#contact-us)
 
 ## Overview
