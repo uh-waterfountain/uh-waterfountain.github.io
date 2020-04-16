@@ -66,6 +66,9 @@ You are able to view the community's rating of each water fountain on campus.
 ## Development History
 
 ### Milestone 1: Mockup development
+The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system.
+
+Milestone 1 was managed using [UH Water Fountain Github Project Board](https://github.com/uh-waterfountain/uh-waterfountain/projects/2)
 
 
 ## Walkthrough videos
