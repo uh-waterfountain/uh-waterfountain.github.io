@@ -27,7 +27,7 @@ There should also be a sorting system, with top rated water fountains being able
 
 ### Index pages
 
-### Sign in and sign up
+### Sign in and Sign Up
 
 ### Home page
 Once you have signed in, you should be able to view the  home page. It is like the landing page, but you are logged into your account.
