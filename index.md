@@ -37,6 +37,9 @@ On the NavBar, there is an "Add Fountains" link that will direct you to a form w
 
 <img src="doc/addFountain.png" alt="add-fountain">
 
+### List Buildings Page
+On the NavBar, there is a "List Buildings" link that will direct you to the list of buildings on campus, by clicking one of these cards it will display all the registered water fountains in the building.
+
 ### List Fountain page
 On the NavBar, there is a "List Fountains" link that directs you to the list of fountains you have rated.
 
