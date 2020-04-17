@@ -71,10 +71,14 @@ This section provides information of interest to Meteor developers wishing to us
 ### Milestone 1: Mockup Development
 The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system.
 
-Milestone 1 was managed using [UH Water Fountain Github Project Board M1](https://github.com/uh-waterfountain/uh-waterfountain/projects/2)
+Milestone 1 was managed using [UH Water Fountain Github Project Board M1:](https://github.com/uh-waterfountain/uh-waterfountain/projects/2)
+
+<img src="doc/M1.png" alt="M1">
 
 ### Milestone 2
-Milestone 2 is currently being managed using [UH Water Fountain Github Project Board M2](https://github.com/uh-waterfountain/uh-waterfountain/projects/3) 
+Milestone 2 is currently being managed using [UH Water Fountain Github Project Board M2:](https://github.com/uh-waterfountain/uh-waterfountain/projects/3) 
+
+<img src="doc/M2.png" alt="M2">
 
 ## Contact Us
 * [Bryson Yuen](https://github.com/brysonsy)
