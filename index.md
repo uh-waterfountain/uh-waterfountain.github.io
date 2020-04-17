@@ -62,9 +62,9 @@ Issues and suggestions from users will be put here.
 
 ## Developer Guide
 This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
-1. Install [Meteor.](https://www.meteor.com/install)
 
 ### Installation 
+1. Install [Meteor.](https://www.meteor.com/install)
 
 ## Development History
 
