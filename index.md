@@ -1,6 +1,7 @@
 ## Table of contents
 
 * [Overview](#overview)
+* [GitHub Organization](#github-organization)
 * [User Guide](#user-guide)
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
@@ -18,6 +19,9 @@ For this app, there will be a way to organize and present different water founta
 Users should also be able to rate other users reviews, with a like and dislike system. With inappropriate reviews being able to be removed by Admins.
 
 There should also be a sorting system, with top rated water fountains being able to be found easily.
+
+## GitHub Organization
+Access UH Water Fountain GitHub Organization [here.](https://github.com/uh-waterfountain)
 
 ## User Guide
 
