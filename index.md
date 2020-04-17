@@ -49,6 +49,9 @@ After clicking a building card you will be shown the fountains that can be found
 ### Top Rated Reviews Page
 You are able to view the top rated reviews of each water fountain on campus.
 
+## Community Feedback
+Issues and suggestions from users will be put here.
+
 ## Developer Guide
 This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
 1. Install [Meteor.](https://www.meteor.com/install)
@@ -63,8 +66,6 @@ The goal of Milestone 1 was to create a set of HTML pages providing a mockup of 
 Milestone 1 was managed using [UH Water Fountain Github Project Board M1:](https://github.com/uh-waterfountain/uh-waterfountain/projects/2)
 
 ### Milestone 2
-Milestone 2 
-
 Milestone 2 is currently being managed using [UH Water Fountain Github Project Board M2:](https://github.com/uh-waterfountain/uh-waterfountain/projects/3) 
 
 ## Contact Us
