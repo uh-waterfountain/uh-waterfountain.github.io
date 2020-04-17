@@ -32,6 +32,9 @@ These pages are for signing up if you do not own an account or to login if you h
 [Login Page]()
 <img src="doc/login.png" alt="login">
 
+[Sign Up Page]()
+<img src="doc/signup.png" alt="signup">
+
 ### Home Page
 Once you have signed in, you should be able to view the home page. It is similar to the landing page, but you are logged into your account and now have access to the features of the application.
 
