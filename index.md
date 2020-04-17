@@ -21,7 +21,7 @@ Users should also be able to rate other users reviews, with a like and dislike s
 There should also be a sorting system, with top rated water fountains being able to be found easily.
 
 ## GitHub Organization
-Access UH Water Fountain GitHub Organization [here.](https://github.com/uh-waterfountain)
+Access the UH Water Fountain GitHub Organization [here.](https://github.com/uh-waterfountain)
 
 ## User Guide
 
