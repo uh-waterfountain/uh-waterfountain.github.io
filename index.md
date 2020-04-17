@@ -26,8 +26,11 @@ The [Landing Page](http://uhwaterfountain.meteorapp.com/#/) is the first page us
 
 <img src="doc/landing-page.png" alt="landing-page">
 
-### Sign in and Sign Up
-These pages are for signing up if you do not own an account or to sign in if you have an account.
+### Login and Sign Up
+These pages are for signing up if you do not own an account or to login if you have an account.
+
+[Login Page]()
+<img src="doc/login.png" alt="login">
 
 ### Home Page
 Once you have signed in, you should be able to view the home page. It is similar to the landing page, but you are logged into your account and now have access to the features of the application.
@@ -41,7 +44,9 @@ On the NavBar, there is an ["Add Fountains"](http://uhwaterfountain.meteorapp.co
 On the NavBar, there is a "Review Fountain" link that will direct you to a form where you are able to review one of the registered fountains on campus.
 
 ### List Buildings Page
-On the NavBar, there is a "List Buildings" link that will direct you to a list of buildings on campus, by clicking one of these cards it will display all the registered water fountains in the building.
+On the NavBar, there is a ["List Buildings"]() link that will direct you to a list of buildings on campus, by clicking one of these cards it will display all the registered water fountains in the building.
+
+<img src="doc/listBuildings.png" alt="list-buildings">
 
 ### List Fountains Page
 After clicking a building card you will be shown the fountains that can be found in that building. With the reviews for each fountain being shown, from the highest rated review to the lowest rated review.
