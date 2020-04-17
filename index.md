@@ -22,7 +22,7 @@ There should also be a sorting system, with top rated water fountains being able
 ## User Guide
 
 ### Landing Page
-http://uhwaterfountain.meteorapp.com/#/
+The [Landing Page](http://uhwaterfountain.meteorapp.com/#/) is the first page users will see.
 
 <img src="doc/landing-page.png" alt="landing-page">
 
@@ -33,8 +33,7 @@ These pages are for signing up if you do not own an account or to sign in if you
 Once you have signed in, you should be able to view the home page. It is similar to the landing page, but you are logged into your account and now have access to the features of the application.
 
 ### Add Fountain Page
-On the NavBar, there is an "Add Fountains" link that will direct you to a form where you are able to add a fountain that is on campus. 
-http://uhwaterfountain.meteorapp.com/#/add
+On the NavBar, there is an ["Add Fountains"](http://uhwaterfountain.meteorapp.com/#/add) link that will direct you to a form where you are able to add a fountain that is on campus. 
 
 <img src="doc/addFountain.png" alt="add-fountain">
 
