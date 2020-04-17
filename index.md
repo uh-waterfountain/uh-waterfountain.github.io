@@ -25,26 +25,28 @@ There should also be a sorting system, with top rated water fountains being able
 
 <img src="doc/landing-page.png" alt="landing-page">
 
-### Index pages
-
 ### Sign in and Sign Up
+These pages are for signing up if you do not own an account or to sign in if you have an account.
 
-### Home page
-Once you have signed in, you should be able to view the  home page. It is like the landing page, but you are logged into your account.
+### Home Page
+Once you have signed in, you should be able to view the home page. It is similar to the landing page, but you are logged into your account and now have access to the features of the application.
 
-### Add Fountain page
+### Add Fountain Page
 On the NavBar, there is an "Add Fountains" link that will direct you to a form where you are able to add a fountain that is on campus. 
 
 <img src="doc/addFountain.png" alt="add-fountain">
 
+### Review Fountain Page
+On the NavBar, there is a "Review Fountain" link that will direct you to a form where you are able to review one of the registered fountains on campus.
+
 ### List Buildings Page
-On the NavBar, there is a "List Buildings" link that will direct you to the list of buildings on campus, by clicking one of these cards it will display all the registered water fountains in the building.
+On the NavBar, there is a "List Buildings" link that will direct you to a list of buildings on campus, by clicking one of these cards it will display all the registered water fountains in the building.
 
-### List Fountain page
-On the NavBar, there is a "List Fountains" link that directs you to the list of fountains you have rated.
+### List Fountains Page
+After clicking a building card you will be shown the fountains that can be found in that building. With the reviews for each fountain being shown, from the highest rated review to the lowest rated review.
 
-## Community Ratings
-You are able to view the community's rating of each water fountain on campus.
+### Top Rated Reviews Page
+You are able to view the top rated reviews of each water fountain on campus.
 
 ## Developer Guide
 This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
