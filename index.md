@@ -2,6 +2,7 @@
 
 * [Overview](#overview)
 * [GitHub Organization](#github-organization)
+* [Galaxy](#galaxy)
 * [User Guide](#user-guide)
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
@@ -21,7 +22,10 @@ Users should also be able to rate other users reviews, with a like and dislike s
 There should also be a sorting system, with top rated water fountains being able to be found easily.
 
 ## GitHub Organization
-Access the UH Water Fountain GitHub Organization [here.](https://github.com/uh-waterfountain)
+Access the UH Water Fountains GitHub Organization [here](https://github.com/uh-waterfountain), and all of its repositories.
+
+## Galaxy
+The UH Water Fountains system is deployed to Galaxy, and can be accessed [here](http://uhwaterfountains.meteorapp.com/#/).
 
 ## User Guide
 
