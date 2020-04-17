@@ -22,6 +22,7 @@ There should also be a sorting system, with top rated water fountains being able
 ## User Guide
 
 ### Landing Page
+http://uhwaterfountain.meteorapp.com/#/
 
 <img src="doc/landing-page.png" alt="landing-page">
 
@@ -33,6 +34,7 @@ Once you have signed in, you should be able to view the home page. It is similar
 
 ### Add Fountain Page
 On the NavBar, there is an "Add Fountains" link that will direct you to a form where you are able to add a fountain that is on campus. 
+http://uhwaterfountain.meteorapp.com/#/add
 
 <img src="doc/addFountain.png" alt="add-fountain">
 
