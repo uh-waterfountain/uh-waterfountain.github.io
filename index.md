@@ -44,12 +44,12 @@ These pages are for signing up if you do not own an account or to login if you h
 <img src="doc/signup.png" alt="signup">
 
 ### Directory
-Once you have signed in, you should be able to view the [Directory](). It is similar to the landing page, but you are logged into your account and now have access to the features of the application.
+Once you have signed in, you should be able to view the [Directory](http://uh-waterfountains.meteorapp.com/#/directory). It is similar to the landing page, but you are logged into your account and now have access to the features of the application.
 
 <img src="doc/directory.png" alt="directory">
 
 ### Account Management
-When signed in, there is now an [Account Management]() option in the dropdown at the top right. Here you are able to change account settings.
+When signed in, there is now an [Account Management](http://uh-waterfountains.meteorapp.com/#/account) option in the dropdown at the top right. Here you are able to change account settings.
 
 <img src="doc/accountSettings.png" alt="account-management">
 
@@ -73,7 +73,7 @@ After clicking a building card you will be shown the fountains that can be found
 You are able to view the top rated reviews of each water fountain on campus.
 
 ### Map Page
-The [Map Page]() provides a map of the UH Manoa campus. The map is labeled with the names of the buildings that are included in the List Fountains page. It also consists information that shows the amount of fountains in each building.
+The [Map Page](http://uh-waterfountains.meteorapp.com/#/map) provides a map of the UH Manoa campus. The map is labeled with the names of the buildings that are included in the List Fountains page. It also consists information that shows the amount of fountains in each building.
 
 <img src="doc/mappage.png" alt="map-page">
 
