@@ -79,6 +79,24 @@ This section provides information of interest to Meteor developers wishing to us
 ### Installation 
 1. Install [Meteor.](https://www.meteor.com/install)
 
+2. Visit the [UH Water Fountain's application Github page.](https://github.com/uh-waterfountain/uh-waterfountain) You can either click the “Use this template” button, download the source code as a zip file, or make a fork of the repository to create your own repository initialized with a copy of this application.
+  
+    However way you do it, clone your copy of the repository into your local computer.
+    
+3. Then, cd into the uh-waterfountain/app directory and install libraries by:
+    ```
+    $ meteor npm install
+    ```    
+
+4. Run the system with:
+    ```
+    $ meteor npm run start
+    ```
+    
+5. You can now view the application at [http://localhost:3000](http://localhost:3000).
+    
+  
+
 ## Development History
 
 ### Milestone 1: Mockup Development
