@@ -65,6 +65,11 @@ After clicking a building card you will be shown the fountains that can be found
 ### Top Rated Reviews Page
 You are able to view the top rated reviews of each water fountain on campus.
 
+### Map Page
+This page provides a map of the UH Manoa campus. The map is labeled with the names of the buildings that are included in the List Fountains page. It also consists information that shows the amount of fountains in each building.
+
+<img src="doc/mappage.png" alt="map-page">
+
 ## Community Feedback
 Issues and suggestions from users will be put here.
 
@@ -83,7 +88,8 @@ Milestone 1 was managed using [UH Water Fountain Github Project Board M1:](https
 
 <img src="doc/M1.png" alt="M1">
 
-### Milestone 2
+### Milestone 2: Improving Functionality and Quality
+
 Milestone 2 is currently being managed using [UH Water Fountain Github Project Board M2:](https://github.com/uh-waterfountain/uh-waterfountain/projects/3) 
 
 <img src="doc/M2.png" alt="M2">
