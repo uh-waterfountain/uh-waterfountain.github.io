@@ -84,11 +84,13 @@ This section provides information of interest to Meteor developers wishing to us
     However way you do it, clone your copy of the repository into your local computer.
     
 3. Then, cd into the uh-waterfountain/app directory and install libraries by:
+
     ```
     $ meteor npm install
     ```    
 
 4. Run the system with:
+
     ```
     $ meteor npm run start
     ```
