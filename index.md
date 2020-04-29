@@ -25,7 +25,7 @@ There should also be a sorting system, with top rated water fountains being able
 Access the UH Water Fountains GitHub Organization [here](https://github.com/uh-waterfountain), and all of its repositories.
 
 ## Galaxy
-The UH Water Fountains system is deployed to Galaxy, and can be accessed [here](http://uhwaterfountains.meteorapp.com/#/).
+The UH Water Fountains system is deployed to Galaxy, and can be accessed [here](http://uh-waterfountains.meteorapp.com/#/).
 
 ## User Guide
 
