@@ -68,6 +68,7 @@ On the NavBar, there is a ["List Buildings"](http://uhwaterfountains.meteorapp.c
 
 ### List Fountains Page
 After clicking a building card you will be shown the fountains that can be found in that building. With the reviews for each fountain being shown.
+The image below is an example of the [Post List Fountains Page](http://uh-waterfountains.meteorapp.com/#/post).
 
 <img src="doc/listFountains.png" alt="list-fountains">
 
