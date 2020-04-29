@@ -130,6 +130,8 @@ The goal of Milestone 3 was to clean up the code base and fix minor UI issues.
 
 Milestone 3 is currently being managed using [UH Water Fountain Github Project Board M3:](https://github.com/uh-waterfountain/uh-waterfountain/projects/4)
 
+<img src="doc/m3.PNG" alt="M3">
+
 ## Contact Us
 * [Bryson Yuen](https://github.com/brysonsy)
 * [Gunwook Baik](https://github.com/gbaik00)
