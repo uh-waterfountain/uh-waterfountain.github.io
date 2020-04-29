@@ -89,6 +89,7 @@ Milestone 1 was managed using [UH Water Fountain Github Project Board M1:](https
 <img src="doc/M1.png" alt="M1">
 
 ### Milestone 2: Improving Functionality and Quality
+The goal of Milestone 2 was to improve the functionality and quality of our application beyond Milestone 1.
 
 Milestone 2 is currently being managed using [UH Water Fountain Github Project Board M2:](https://github.com/uh-waterfountain/uh-waterfountain/projects/3) 
 
