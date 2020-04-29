@@ -30,17 +30,17 @@ The UH Water Fountains system is deployed to Galaxy, and can be accessed [here](
 ## User Guide
 
 ### Landing Page
-The [Landing Page](http://uhwaterfountain.meteorapp.com/#/) is the first page users will see.
+The [Landing Page](http://uh-waterfountains.meteorapp.com/#/) is the first page users will see.
 
 <img src="doc/landing-page.png" alt="landing-page">
 
 ### Login and Sign Up
 These pages are for signing up if you do not own an account or to login if you have an account.
 
-[Login Page](http://uhwaterfountains.meteorapp.com/#/signin)
+[Login Page](http://uh-waterfountains.meteorapp.com/#/signin)
 <img src="doc/login.png" alt="login">
 
-[Sign Up Page](http://uhwaterfountains.meteorapp.com/#/signup)
+[Sign Up Page](http://uh-waterfountains.meteorapp.com/#/signup)
 <img src="doc/signup.png" alt="signup">
 
 ### Directory
@@ -54,7 +54,7 @@ When signed in, there is now an [Account Management](http://uh-waterfountains.me
 <img src="doc/accountSettings.png" alt="account-management">
 
 ### Add Fountain Page
-On the NavBar, there is an ["Add Fountains"](http://uhwaterfountain.meteorapp.com/#/add) link that will direct you to a form where you are able to add a fountain that is on campus. 
+On the NavBar, there is an ["Add Fountains"](http://uh-waterfountains.meteorapp.com/#/add) link that will direct you to a form where you are able to add a fountain that is on campus. 
 
 <img src="doc/addFountain.png" alt="add-fountain">
 
@@ -62,7 +62,7 @@ On the NavBar, there is an ["Add Fountains"](http://uhwaterfountain.meteorapp.co
 On the NavBar, there is a "Review Fountain" link that will direct you to a form where you are able to review one of the registered fountains on campus.
 
 ### List Buildings Page
-On the NavBar, there is a ["List Buildings"](http://uhwaterfountains.meteorapp.com/#/list) link that will direct you to a list of buildings on campus, by clicking one of these cards it will display all the registered water fountains in the building.
+On the NavBar, there is a ["List Buildings"](http://uh-waterfountains.meteorapp.com/#/list) link that will direct you to a list of buildings on campus, by clicking one of these cards it will display all the registered water fountains in the building.
 
 <img src="doc/listBuildings.png" alt="list-buildings">
 
