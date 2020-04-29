@@ -43,8 +43,15 @@ These pages are for signing up if you do not own an account or to login if you h
 [Sign Up Page](http://uhwaterfountains.meteorapp.com/#/signup)
 <img src="doc/signup.png" alt="signup">
 
-### Home Page
-Once you have signed in, you should be able to view the home page. It is similar to the landing page, but you are logged into your account and now have access to the features of the application.
+### Directory
+Once you have signed in, you should be able to view the [Directory](). It is similar to the landing page, but you are logged into your account and now have access to the features of the application.
+
+<img src="doc/directory.png" alt="directory">
+
+### Account Management
+When signed in, there is now an [Account Management]() option in the dropdown at the top right. Here you are able to change account settings.
+
+<img src="doc/accountSettings.png" alt="account-management">
 
 ### Add Fountain Page
 On the NavBar, there is an ["Add Fountains"](http://uhwaterfountain.meteorapp.com/#/add) link that will direct you to a form where you are able to add a fountain that is on campus. 
