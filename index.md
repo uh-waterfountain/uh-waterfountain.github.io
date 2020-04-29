@@ -67,7 +67,9 @@ On the NavBar, there is a ["List Buildings"](http://uhwaterfountains.meteorapp.c
 <img src="doc/listBuildings.png" alt="list-buildings">
 
 ### List Fountains Page
-After clicking a building card you will be shown the fountains that can be found in that building. With the reviews for each fountain being shown, from the highest rated review to the lowest rated review.
+After clicking a building card you will be shown the fountains that can be found in that building. With the reviews for each fountain being shown.
+
+<img src="doc/listFountains.png" alt="list-fountains">
 
 ### Top Rated Reviews Page
 You are able to view the top rated reviews of each water fountain on campus.
