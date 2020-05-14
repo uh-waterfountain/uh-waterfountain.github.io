@@ -80,7 +80,11 @@ The Map Page provides a map of the UH Manoa campus. The map is labeled with the 
 <img src="doc/mappage.png" alt="map-page">
 
 ## Community Feedback
-Issues and suggestions from users will be put here.
+For user feedback we were able to gather feedback from 5 UH community members. From this we were able to gather how users felt about our system in order for us to improve our application.
+
+Overall, users were able to understand most of the sites user interface without problems, though there were some issues with the naming conventions that we used for some things. For instance on the add fountain page there is a "Location" section that must be filled, though we could have instead named that section "Building" in order to give users a clearer idea of what the section was referring to.
+
+
 
 ## Developer Guide
 This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
