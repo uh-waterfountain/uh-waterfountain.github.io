@@ -58,22 +58,16 @@ On the NavBar, there is an ["Add Fountains"](http://uh-waterfountains.meteorapp.
 
 <img src="doc/addFountain.png" alt="add-fountain">
 
-### Review Fountain Page
-On the NavBar, there is a "Review Fountain" link that will direct you to a form where you are able to review one of the registered fountains on campus.
-
 ### List Buildings Page
 On the NavBar, there is a ["List Buildings"](http://uh-waterfountains.meteorapp.com/#/list) link that will direct you to a list of buildings on campus, by clicking one of these cards it will display all the registered water fountains in the building.
 
 <img src="doc/listBuildings.png" alt="list-buildings">
 
 ### List Fountains Page
-After clicking a building card you will be shown the fountains that can be found in that building. With the reviews for each fountain being shown.
+After clicking a building card you will be shown the fountains that can be found in that building. With each fountain being reviewable here by clicking on the ratings from 1 to 5 stars.
 The image below is an example of the [Post List Fountains Page](http://uh-waterfountains.meteorapp.com/#/post).
 
 <img src="doc/listFountains.png" alt="list-fountains">
-
-### Top Rated Reviews Page
-You are able to view the top rated reviews of each water fountain on campus.
 
 ### Map Page
 The [Map Page](http://uh-waterfountains.meteorapp.com/#/map) provides a map of the UH Manoa campus. The map is labeled with the names of the buildings that are included in the List Fountains page. It also consists information that shows the amount of fountains in each building.
