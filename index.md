@@ -30,52 +30,52 @@ The UH Water Fountains system is deployed to Galaxy, and can be accessed [here](
 ## User Guide
 
 ### Landing Page
-The [Landing Page](http://uh-waterfountains.meteorapp.com/#/) is the first page users will see.
+The Landing Page is the first page users will see.
 
 <img src="doc/landing-page.png" alt="landing-page">
 
 ### Login and Sign Up
 These pages are for signing up if you do not own an account or to login if you have an account.
 
-[Login Page](http://uh-waterfountains.meteorapp.com/#/signin)
+Login Page
 <img src="doc/login.png" alt="login">
 
-[Sign Up Page](http://uh-waterfountains.meteorapp.com/#/signup)
+Sign Up Page
 <img src="doc/signup.png" alt="signup">
 
 ### Directory
-Once you have signed in, you should be able to view the [Directory](http://uh-waterfountains.meteorapp.com/#/directory). It is similar to the landing page, but you are logged into your account and now have access to the features of the application.
+Once you have signed in, you should be able to view the Directory. It is similar to the landing page, but you are logged into your account and now have access to the features of the application.
 
 <img src="doc/directory.png" alt="directory">
 
 ### Account Management
-When signed in, there is now an [Account Management](http://uh-waterfountains.meteorapp.com/#/account) option in the dropdown at the top right. Here you are able to change account settings.
+When signed in, there is now an Account Management option in the dropdown at the top right. Here you are able to change account settings.
 
 <img src="doc/accountSettings.png" alt="account-management">
 
 ### Add Fountain Page
-On the NavBar, there is an ["Add Fountains"](http://uh-waterfountains.meteorapp.com/#/add) link that will direct you to a form where you are able to add a fountain that is on campus. 
+On the NavBar, there is an Add Fountains link that will direct you to a form where you are able to add a fountain that is on campus. 
 
 <img src="doc/addFountain.png" alt="add-fountain">
 
 ### List Buildings Page
-On the NavBar, there is a ["List Buildings"](http://uh-waterfountains.meteorapp.com/#/list) link that will direct you to a list of buildings on campus, by clicking one of these cards it will display all the registered water fountains in the building.
+On the NavBar, there is a List Buildings link that will direct you to a list of buildings on campus, by clicking one of these cards it will display all the registered water fountains in the building.
 
 <img src="doc/listBuildings.png" alt="list-buildings">
 
 ### List Fountains Page
 After clicking a building card you will be shown the fountains that can be found in that building. With each fountain being reviewable here by clicking on the ratings from 1 to 5 stars.
-The image below is an example of the [Post List Fountains Page](http://uh-waterfountains.meteorapp.com/#/post).
+The image below is an example of the Post List Fountains Page.
 
 <img src="doc/listFountains.png" alt="list-fountains">
 
 ### Admin Fountain List
-Users who are desginated with the "admin" role will be able to see a [Fountain List]() which contains all the fountains, here you can also edit any fountain as well as accept any fountains that are requested to be added.
+Users who are desginated with the "admin" role will be able to see a Fountain List which contains all the fountains, here you can also edit any fountain as well as accept any fountains that are requested to be added.
 
 <img src="doc/adminListFountains.png" alt="admin-list-fountains">
 
 ### Map Page
-The [Map Page](http://uh-waterfountains.meteorapp.com/#/map) provides a map of the UH Manoa campus. The map is labeled with the names of the buildings that are included in the List Fountains page. It also consists information that shows the amount of fountains in each building.
+The Map Page provides a map of the UH Manoa campus. The map is labeled with the names of the buildings that are included in the List Fountains page. It also consists information that shows the amount of fountains in each building.
 
 <img src="doc/mappage.png" alt="map-page">
 
