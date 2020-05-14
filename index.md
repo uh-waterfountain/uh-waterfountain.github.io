@@ -70,9 +70,14 @@ The image below is an example of the Post List Fountains Page.
 <img src="doc/listFountains.png" alt="list-fountains">
 
 ### Admin Fountain List
-Users who are desginated with the "admin" role will be able to see a Fountain List which contains all the fountains, here you can also edit any fountain as well as accept any fountains that are requested to be added.
+Users who are desginated with the "admin" role will be able to see a Fountain List which contains all the fountains, here you can also click on the edit button to edit any fountain as well as accept any fountains that are requested to be added.
 
 <img src="doc/adminListFountains.png" alt="admin-list-fountains">
+
+### Admin Edit Page
+After clicking on the edit button for a fountain on the admin list page you will be sent to the Admin Edit Page. Here you can edit the fountain and also accept fountains which have not been approved of yet.
+
+<img src="doc/adminEdit.png" alt="admin-edit-fountains">
 
 ### Map Page
 The Map Page provides a map of the UH Manoa campus. The map is labeled with the names of the buildings that are included in the List Fountains page. It also consists information that shows the amount of fountains in each building.
