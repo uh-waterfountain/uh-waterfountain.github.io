@@ -84,7 +84,9 @@ For user feedback we were able to gather feedback from 5 UH community members. F
 
 Overall, users were able to understand most of the sites user interface without problems, though there were some issues with the naming conventions that we used for some things. For instance on the add fountain page there is a "Location" section that must be filled, though we could have instead named that section "Building" in order to give users a clearer idea of what the section was referring to.
 
+We also received feedback on the design of some pages, as some pages looked very plain for users. With there being a lot of blank space on some of the fountain pages. Users also wanted some extra features for the fountains, such as the ability to add comments for fountains in order to have brief descriptions of each fountain. Also, a logo was suggested instead of the plain text used on the top left of our nav bar.
 
+Another thing a user suggested was the addition of a personal fountain page in order to have a list of personal favorite fountains that would be accessible to only the user. But due to time constraints this was not added. 
 
 ## Developer Guide
 This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
