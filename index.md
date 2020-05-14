@@ -69,6 +69,11 @@ The image below is an example of the [Post List Fountains Page](http://uh-waterf
 
 <img src="doc/listFountains.png" alt="list-fountains">
 
+### Admin Fountain List
+Users who are desginated with the "admin" role will be able to see a [Fountain List]() which contains all the fountains, here you can also edit any fountain as well as accept any fountains that are requested to be added.
+
+<img src="doc/adminListFountains.png" alt="admin-list-fountains">
+
 ### Map Page
 The [Map Page](http://uh-waterfountains.meteorapp.com/#/map) provides a map of the UH Manoa campus. The map is labeled with the names of the buildings that are included in the List Fountains page. It also consists information that shows the amount of fountains in each building.
 
@@ -101,7 +106,23 @@ This section provides information of interest to Meteor developers wishing to us
     
 5. You can now view the application at [http://localhost:3000](http://localhost:3000).
     
-  
+### Initialization
+
+The [config](https://github.com/uh-waterfountain/uh-waterfountain/tree/master/config) directory holds settings files. The repository contains one file: config/settings.development.json.
+
+The file contains default definitions for default accounts and default fountains.
+
+### Quality Assurance
+
+#### ESLint
+
+UH Waterfountains includes a [.eslintrc](https://github.com/uh-waterfountain/uh-waterfountain/blob/master/app/.eslintrc) file to define the coding standards that is adhered to the applications. ESlint can be evoked from the command line:
+
+```
+meteor npm run lint
+```
+
+ESLint should then run without generating any errors.
 
 ## Development History
 
